@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/phonlawat1/todolist/static/css/main.f855e6bc.css",
-    "main.js": "/phonlawat1/todolist/static/js/main.46b45743.js",
-    "static/js/453.59bb3b6d.chunk.js": "/phonlawat1/todolist/static/js/453.59bb3b6d.chunk.js",
-    "index.html": "/phonlawat1/todolist/index.html",
-    "main.f855e6bc.css.map": "/phonlawat1/todolist/static/css/main.f855e6bc.css.map",
-    "main.46b45743.js.map": "/phonlawat1/todolist/static/js/main.46b45743.js.map",
-    "453.59bb3b6d.chunk.js.map": "/phonlawat1/todolist/static/js/453.59bb3b6d.chunk.js.map"
+    "main.css": "/todolist/static/css/main.f855e6bc.css",
+    "main.js": "/todolist/static/js/main.93876632.js",
+    "static/js/453.59bb3b6d.chunk.js": "/todolist/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/todolist/index.html",
+    "main.f855e6bc.css.map": "/todolist/static/css/main.f855e6bc.css.map",
+    "main.93876632.js.map": "/todolist/static/js/main.93876632.js.map",
+    "453.59bb3b6d.chunk.js.map": "/todolist/static/js/453.59bb3b6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.46b45743.js"
+    "static/js/main.93876632.js"
   ]
 }
