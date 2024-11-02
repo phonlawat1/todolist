@@ -34,8 +34,6 @@ type Action =
 
 const reducer = (state: State, action: Action): State => {
   const categoryKey = (action.item.type.toLowerCase() + "s") as keyof State;
-  console.log(categoryKey);
-
   switch (action.type) {
     case "ADD_TO_CATEGORY":
       return {
